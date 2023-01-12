@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672487308 source:c:\users\marian\desktop\juegos para github\juego de tanques\juego de tanques con armas\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"LogicaTank.h"
+	"Tanks.h"
+
+1672413894 c:\users\marian\desktop\juegos para github\juego de tanques\juego de tanques con armas\logicatank.h
+
+1672421263 c:\users\marian\desktop\juegos para github\juego de tanques\juego de tanques con armas\filetanks.h
+
+1672740285 c:\users\marian\desktop\juegos para github\juego de tanques\juego de tanques con armas\tanks.h
+
